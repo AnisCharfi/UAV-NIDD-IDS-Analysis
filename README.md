@@ -272,7 +272,7 @@ link : https://ieeexplore.ieee.org/abstract/document/10937270?casa_token=ylzQplv
 For questions, issues, or collaboration opportunities:
 - **Email**: anischarfi2001@gmail.com
 - **GitHub**: https://github.com/AnisCharfi/
-- **LinkedIn**: https://www.linkedin.com/in/anis-charfi-aa39b2218/
+- **LinkedIn**: https://www.linkedin.com/in/charfi-anis/
 
 ##  Acknowledgments
 
